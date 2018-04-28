@@ -3,6 +3,8 @@ This package makes loading project libs easier.
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wookets/node-lib.svg)](https://greenkeeper.io/)
+
 In package.json,
 
 ```"lib": "https://github.com/wookets/node-lib/0.2.0"```
